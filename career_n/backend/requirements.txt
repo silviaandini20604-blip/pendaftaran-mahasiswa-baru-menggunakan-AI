@@ -1,0 +1,13 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-mysqldb==1.0.1
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+joblib==1.3.2
+requests==2.31.0
+
+# link dataset
+# OCEAN Personality Dataset : https://www.kaggle.com/datasets/tunguz/big-five-personality-test (untuk test kepribadian)
+# Career Guidance Dataset : https://www.kaggle.com/datasets/spscientist/students-performance-in-exams (untuk test bidang kejuruan berdasarkan keahlian)
+# Aptitude Test Questions : https://www.kaggle.com/datasets/nlztrk/eduqg-dataset-llm-science-exam-format-34k (untuk test soal)
